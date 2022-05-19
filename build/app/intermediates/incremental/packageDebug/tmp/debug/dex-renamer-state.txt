@@ -1,0 +1,4 @@
+#Mon May 02 16:02:45 PDT 2022
+base.0=/Users/rahulkishan/Desktop/My_Folder/Masters/Subjects/csci 571/HW4/PhotoAlbum/photoalbum/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
